@@ -33,6 +33,8 @@
 - 🤖 [Nav2 기반 미술관 안내 로봇](https://github.com/chillyminwoo/nav2-art-guide-robot)
   - QR 티켓 인증, Nav2 자율주행, 작품 인식, 제스처 제어를 통합한 안내 로봇 시스템
 
+- 🦮 [Nuni - AI 음성 비서 기반 시각장애인 보행 내비게이션](https://github.com/chillyminwoo/BlindCareNav)
+  - 음성 안내, GPS 보행 추적, YOLO 장애물 탐지, 관제 연동을 통합한 보행 보조 시스템
 ---
 
 ## 📊 GitHub 통계
