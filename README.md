@@ -18,20 +18,21 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ## 📌 프로젝트
 
 - 🚗 [CATNIP - CAN 기반 분산 ECU 무인 배달 차량 시스템](https://github.com/chillyminwoo/can-based-autonomous-delivery-car)
-  - STM32 x 2 + Raspberry Pi x 3 기반 분산 ECU 구조로 자율주행 RC 배달 차량 구현
+  - STM32 x 2 + Raspberry Pi x 3 기반 분산 ECU 구조로 자율주행 배달 차량 구현
 
 - 🤖 [Nav2 기반 미술관 안내 로봇](https://github.com/chillyminwoo/nav2-art-guide-robot)
   - QR 티켓 인증, Nav2 자율주행, 작품 인식, 제스처 제어를 통합한 안내 로봇 시스템
 
 - 🦮 [Nuni - AI 음성 비서 기반 시각장애인 보행 내비게이션](https://github.com/chillyminwoo/BlindCareNav)
   - 음성 안내, GPS 보행 추적, YOLO 장애물 탐지, 관제 연동을 통합한 보행 보조 시스템
+
+- 🐧 [PCIe DMA 기반 실시간 네트워크 패킷 캡처 시스템](https://github.com/chillyminwoo/pcie-dma-packet-capture)
+  - NIC가 수신한 RAW 패킷을 사용자 공간에서 분석·시각화하는 시스템
 ---
